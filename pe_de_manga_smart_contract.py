@@ -59,7 +59,8 @@ def on_app_create() -> Expr:
     )
 
     return Seq(
-        Assert(precondition), App.globalPut(GLOBAL_NA_MANGUEIRA, Int(0)),
+        Assert(precondition),
+        App.globalPut(GLOBAL_NA_MANGUEIRA, Int(0)),
         Approve()
     )
 
