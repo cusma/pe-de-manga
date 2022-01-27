@@ -21,7 +21,9 @@ poetry shell # active o virtual env
 ```
 
 ## Pe de Manga NFT 🥭 na MainNet
-`<pe-de-manga-id>`: 570610614 (Application ID MainNet)
+Um pe de manga já foi plantado na MainNet:
+
+`<pe-de-manga-id>`: [570610614](https://algoexplorer.io/application/570610614)
 
 ## CLI
 
