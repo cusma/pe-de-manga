@@ -32,6 +32,8 @@ local, é altamente recomendável fazer uso de uma conta dedicada apenas para
 jogar com o Pe de Manga NFT 🥭!
 
 ```bash
+$ python3 pe_de_manga.py -h
+
 Pé de manga NFT 🥭 (by cusma)
 Plante e regue um pé de manga, grite oxê e colhe sua deliciosa manga NFT!
 
