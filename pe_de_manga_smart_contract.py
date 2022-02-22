@@ -93,6 +93,9 @@ def rega_pe_de_manga():
                 TxnField.config_asset_url: Bytes(
                     "ipfs://bafkreibojeqclpzpz73gotdzqtondllgkncdzarmpad3i5alcvhodv7ujy#arc3"
                 ),
+                TxnField.config_asset_metadata_hash: Bytes(
+                    "LkkgJb8vz/ZnTHmE3NGtZlNEPIIseAe0dAsVTuHX9E4="
+                ),
                 TxnField.config_asset_decimals: Int(0),
                 TxnField.config_asset_total: Int(1),
                 TxnField.config_asset_manager: mangueira_account,
