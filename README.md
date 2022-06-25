@@ -1,4 +1,8 @@
-# Pe de Manga NFT 🥭
+# Pé de Manga NFT 🥭
+
+[VÍDEO AULA (em Português)](https://www.youtube.com/watch?v=Wl2JDXudGrM) - Programação Algorand Smart Contracts em Python! 🐍
+
+Assista a explicação passo-a-passo do exemplo Pé de Manga NFT 🥭 na vídeo aula!
 
 ## Prerequisitos
 
@@ -20,8 +24,8 @@ poetry install # instale todas as dependências
 poetry shell # active o virtual env
 ```
 
-## Pe de Manga NFT 🥭 na MainNet
-Um pe de manga já foi plantado na MainNet:
+## Pé de Manga NFT 🥭 na MainNet
+Um pé de manga já foi plantado na MainNet:
 
 `<pe-de-manga-id>`: [570610614](https://algoexplorer.io/application/570610614)
 
@@ -29,7 +33,7 @@ Um pe de manga já foi plantado na MainNet:
 
 ⚠️ Mantenha seu `<mnemonic>` seguro! Embora você só vá usá-lo em sua máquina
 local, é altamente recomendável fazer uso de uma conta dedicada apenas para
-jogar com o Pe de Manga NFT 🥭!
+jogar com o Pé de Manga NFT 🥭!
 
 ```bash
 $ python3 pe_de_manga.py -h
