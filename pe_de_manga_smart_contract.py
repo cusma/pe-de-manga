@@ -78,7 +78,7 @@ def on_app_call() -> Expr:
     )
 
 
-def rega_pe_de_manga():
+def rega_pe_de_manga() -> Expr:
     mangueira_account = Global.current_application_address()
 
     nao_tem_manga = App.globalGet(GLOBAL_NA_MANGUEIRA) == Int(0)
@@ -119,7 +119,7 @@ def rega_pe_de_manga():
     )
 
 
-def colhe_manga():
+def colhe_manga() -> Expr:
     manga = App.globalGet(GLOBAL_NA_MANGUEIRA)
 
     colher_da_mangueira = Seq(
